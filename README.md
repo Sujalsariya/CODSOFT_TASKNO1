@@ -1,2 +1,2 @@
-# CODSOFT_TASKNO05
+# CODSOFT_TASKNO5
 Using Python language
